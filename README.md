@@ -5,9 +5,9 @@
 
 Version: **1.0.1**
 
-![Cogitor screenshot](cogitorCLI.png)
+![Cogitor screenshot CLI](cogitorCLI.png)
 
-![Cogitor screenshot](cogitorGUI.png)
+![Cogitor screenshot GUI](cogitorGUI.png)
 
 ## Описание проекта
 
