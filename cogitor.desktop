@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=Cogitor
+Comment=Мой ассистент на Go
+Exec=/home/aleks/.local/bin/cogitor pollinations openai sk_BBFtjzmSVEl9FVekiVzfkgXOSf70FBQh --gui
+Icon=/home/aleks/.local/share/icons/cogitor.png
+Terminal=false
+Type=Application
+Categories=Utility;
+StartupNotify=true
